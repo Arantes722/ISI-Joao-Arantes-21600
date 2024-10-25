@@ -29,5 +29,5 @@ Este projeto tem como objetivo a integração de dados meteorológicos obtidos a
 ## Como Executar o Projeto
 1. **Clone este repositório**:
    ```bash
-   git clone https://github.com/teu-usuario/nome-do-repositorio.git
-   cd nome-do-repositorio
+   git clone https://github.com/teu-usuario/nome-do-repositorio.git](https://github.com/Arantes722/ISI-Joao-Arantes-21600.git
+   cd ISI-Joao-Arantes-21600
